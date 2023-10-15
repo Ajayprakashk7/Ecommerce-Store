@@ -230,12 +230,230 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
+    "(app-client)/./components/ui/currency.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/currency.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/currency.tsx",
+        "name": "",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/currency.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./components/ui/product-card.tsx": {
+      "*": {
+        "id": "(sc_client)/./components/ui/product-card.tsx",
+        "name": "*",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/ui/product-card.tsx",
+        "name": "",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/ui/product-card.tsx",
+        "name": "default",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "*",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "name": "default",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "*",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "default",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "defaultHead": {
+        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
+        "name": "defaultHead",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/react-hot-toast/dist/index.mjs": {
+      "*": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "*",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "CheckmarkIcon": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "CheckmarkIcon",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "ErrorIcon": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "ErrorIcon",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "LoaderIcon": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "LoaderIcon",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "ToastBar": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "ToastBar",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "ToastIcon": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "ToastIcon",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "Toaster": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "Toaster",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "default",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "resolveValue": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "resolveValue",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "toast": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "toast",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "useToaster": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "useToaster",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      },
+      "useToasterStore": {
+        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "name": "useToasterStore",
+        "chunks": [
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./components/gallery/index.tsx": {
       "*": {
         "id": "(sc_client)/./components/gallery/index.tsx",
         "name": "*",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/(routes)/product/[productId]/page:static/chunks/app/(routes)/product/[productId]/page.js"
         ],
         "async": false
       },
@@ -243,7 +461,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/gallery/index.tsx",
         "name": "",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/(routes)/product/[productId]/page:static/chunks/app/(routes)/product/[productId]/page.js"
         ],
         "async": false
       },
@@ -251,7 +469,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/gallery/index.tsx",
         "name": "default",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/(routes)/product/[productId]/page:static/chunks/app/(routes)/product/[productId]/page.js"
         ],
         "async": false
       }
@@ -261,7 +479,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/info.tsx",
         "name": "*",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/(routes)/product/[productId]/page:static/chunks/app/(routes)/product/[productId]/page.js"
         ],
         "async": false
       },
@@ -269,7 +487,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/info.tsx",
         "name": "",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/(routes)/product/[productId]/page:static/chunks/app/(routes)/product/[productId]/page.js"
         ],
         "async": false
       },
@@ -277,7 +495,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./components/info.tsx",
         "name": "default",
         "chunks": [
-          "app/layout:static/chunks/app/layout.js"
+          "app/(routes)/product/[productId]/page:static/chunks/app/(routes)/product/[productId]/page.js"
         ],
         "async": false
       }
@@ -360,32 +578,6 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./components/ui/currency.tsx": {
-      "*": {
-        "id": "(sc_client)/./components/ui/currency.tsx",
-        "name": "*",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./components/ui/currency.tsx",
-        "name": "",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/ui/currency.tsx",
-        "name": "default",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./components/ui/modal.tsx": {
       "*": {
         "id": "(sc_client)/./components/ui/modal.tsx",
@@ -408,32 +600,6 @@ self.__RSC_MANIFEST={
         "name": "default",
         "chunks": [
           "app/layout:static/chunks/app/layout.js"
-        ],
-        "async": false
-      }
-    },
-    "(app-client)/./node_modules/next/dist/client/image.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "*",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
-        "name": "default",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
         ],
         "async": false
       }
@@ -464,40 +630,6 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/next/dist/shared/lib/head.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "*",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "default",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "defaultHead": {
-        "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
-        "name": "defaultHead",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./providers/modal-provider.tsx": {
       "*": {
         "id": "(sc_client)/./providers/modal-provider.tsx",
@@ -524,134 +656,54 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./node_modules/react-hot-toast/dist/index.mjs": {
+    "(app-client)/./app/(routes)/category/[categoryId]/components/filter.tsx": {
       "*": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "id": "(sc_client)/./app/(routes)/category/[categoryId]/components/filter.tsx",
         "name": "*",
         "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "id": "(sc_client)/./app/(routes)/category/[categoryId]/components/filter.tsx",
         "name": "",
         "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "CheckmarkIcon": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
-        "name": "CheckmarkIcon",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "ErrorIcon": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
-        "name": "ErrorIcon",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "LoaderIcon": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
-        "name": "LoaderIcon",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "ToastBar": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
-        "name": "ToastBar",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "ToastIcon": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
-        "name": "ToastIcon",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "Toaster": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
-        "name": "Toaster",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
+        "id": "(sc_client)/./app/(routes)/category/[categoryId]/components/filter.tsx",
         "name": "default",
         "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "resolveValue": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
-        "name": "resolveValue",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "toast": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
-        "name": "toast",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "useToaster": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
-        "name": "useToaster",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
-        ],
-        "async": false
-      },
-      "useToasterStore": {
-        "id": "(sc_client)/./node_modules/react-hot-toast/dist/index.mjs",
-        "name": "useToasterStore",
-        "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
         ],
         "async": false
       }
     },
-    "(app-client)/./components/ui/product-card.tsx": {
+    "(app-client)/./app/(routes)/category/[categoryId]/components/mobile-filters.tsx": {
       "*": {
-        "id": "(sc_client)/./components/ui/product-card.tsx",
+        "id": "(sc_client)/./app/(routes)/category/[categoryId]/components/mobile-filters.tsx",
         "name": "*",
         "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
         ],
         "async": false
       },
       "": {
-        "id": "(sc_client)/./components/ui/product-card.tsx",
+        "id": "(sc_client)/./app/(routes)/category/[categoryId]/components/mobile-filters.tsx",
         "name": "",
         "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
         ],
         "async": false
       },
       "default": {
-        "id": "(sc_client)/./components/ui/product-card.tsx",
+        "id": "(sc_client)/./app/(routes)/category/[categoryId]/components/mobile-filters.tsx",
         "name": "default",
         "chunks": [
-          "app/(routes)/page:static/chunks/app/(routes)/page.js"
+          "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
         ],
         "async": false
       }
@@ -1336,6 +1388,270 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/currency.tsx": {
+      "id": "(app-client)/./components/ui/currency.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/currency.tsx#": {
+      "id": "(app-client)/./components/ui/currency.tsx",
+      "name": "",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/currency.tsx#default": {
+      "id": "(app-client)/./components/ui/currency.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/product-card.tsx": {
+      "id": "(app-client)/./components/ui/product-card.tsx",
+      "name": "*",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/product-card.tsx#": {
+      "id": "(app-client)/./components/ui/product-card.tsx",
+      "name": "",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/product-card.tsx#default": {
+      "id": "(app-client)/./components/ui/product-card.tsx",
+      "name": "default",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/client/image.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "*",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/client/image.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/client/image.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/image.js",
+      "name": "default",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/shared/lib/head.js": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "*",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/shared/lib/head.js#": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/shared/lib/head.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "default",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
+      "name": "defaultHead",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "*",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#CheckmarkIcon": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "CheckmarkIcon",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#ErrorIcon": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "ErrorIcon",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#LoaderIcon": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "LoaderIcon",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#ToastBar": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "ToastBar",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#ToastIcon": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "ToastIcon",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#Toaster": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "Toaster",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#default": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "default",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#resolveValue": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "resolveValue",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#toast": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "toast",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#useToaster": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "useToaster",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#useToasterStore": {
+      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+      "name": "useToasterStore",
+      "chunks": [
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
+      ],
+      "async": false
+    },
     "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/app/globals.css#": {
       "id": "null",
       "name": "default",
@@ -1354,7 +1670,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/gallery/index.tsx",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/(routes)/product/[productId]/page:static/chunks/app/(routes)/product/[productId]/page.js"
       ],
       "async": false
     },
@@ -1362,7 +1678,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/gallery/index.tsx",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/(routes)/product/[productId]/page:static/chunks/app/(routes)/product/[productId]/page.js"
       ],
       "async": false
     },
@@ -1370,7 +1686,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/gallery/index.tsx",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/(routes)/product/[productId]/page:static/chunks/app/(routes)/product/[productId]/page.js"
       ],
       "async": false
     },
@@ -1378,7 +1694,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/info.tsx",
       "name": "*",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/(routes)/product/[productId]/page:static/chunks/app/(routes)/product/[productId]/page.js"
       ],
       "async": false
     },
@@ -1386,7 +1702,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/info.tsx",
       "name": "",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/(routes)/product/[productId]/page:static/chunks/app/(routes)/product/[productId]/page.js"
       ],
       "async": false
     },
@@ -1394,7 +1710,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./components/info.tsx",
       "name": "default",
       "chunks": [
-        "app/layout:static/chunks/app/layout.js"
+        "app/(routes)/product/[productId]/page:static/chunks/app/(routes)/product/[productId]/page.js"
       ],
       "async": false
     },
@@ -1470,30 +1786,6 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/currency.tsx": {
-      "id": "(app-client)/./components/ui/currency.tsx",
-      "name": "*",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/currency.tsx#": {
-      "id": "(app-client)/./components/ui/currency.tsx",
-      "name": "",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/currency.tsx#default": {
-      "id": "(app-client)/./components/ui/currency.tsx",
-      "name": "default",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
     "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/modal.tsx": {
       "id": "(app-client)/./components/ui/modal.tsx",
       "name": "*",
@@ -1515,54 +1807,6 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/client/image.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/client/image.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "*",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/client/image.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/client/image.js#": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/client/image.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/client/image.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/client/image.js",
-      "name": "default",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
       ],
       "async": false
     },
@@ -1614,70 +1858,6 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/shared/lib/head.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "*",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/shared/lib/head.js": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "*",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/shared/lib/head.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/shared/lib/head.js#": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/shared/lib/head.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "default",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/shared/lib/head.js#default": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "default",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/shared/lib/head.js#defaultHead": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "defaultHead",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/next/dist/esm/shared/lib/head.js#defaultHead": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
-      "name": "defaultHead",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
     "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/providers/modal-provider.tsx": {
       "id": "(app-client)/./providers/modal-provider.tsx",
       "name": "*",
@@ -1702,131 +1882,51 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/app/(routes)/category/[categoryId]/components/filter.tsx": {
+      "id": "(app-client)/./app/(routes)/category/[categoryId]/components/filter.tsx",
       "name": "*",
       "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
       ],
       "async": false
     },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/app/(routes)/category/[categoryId]/components/filter.tsx#": {
+      "id": "(app-client)/./app/(routes)/category/[categoryId]/components/filter.tsx",
       "name": "",
       "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
       ],
       "async": false
     },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#CheckmarkIcon": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
-      "name": "CheckmarkIcon",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#ErrorIcon": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
-      "name": "ErrorIcon",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#LoaderIcon": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
-      "name": "LoaderIcon",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#ToastBar": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
-      "name": "ToastBar",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#ToastIcon": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
-      "name": "ToastIcon",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#Toaster": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
-      "name": "Toaster",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#default": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/app/(routes)/category/[categoryId]/components/filter.tsx#default": {
+      "id": "(app-client)/./app/(routes)/category/[categoryId]/components/filter.tsx",
       "name": "default",
       "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
       ],
       "async": false
     },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#resolveValue": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
-      "name": "resolveValue",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#toast": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
-      "name": "toast",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#useToaster": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
-      "name": "useToaster",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/node_modules/react-hot-toast/dist/index.mjs#useToasterStore": {
-      "id": "(app-client)/./node_modules/react-hot-toast/dist/index.mjs",
-      "name": "useToasterStore",
-      "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
-      ],
-      "async": false
-    },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/product-card.tsx": {
-      "id": "(app-client)/./components/ui/product-card.tsx",
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/app/(routes)/category/[categoryId]/components/mobile-filters.tsx": {
+      "id": "(app-client)/./app/(routes)/category/[categoryId]/components/mobile-filters.tsx",
       "name": "*",
       "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
       ],
       "async": false
     },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/product-card.tsx#": {
-      "id": "(app-client)/./components/ui/product-card.tsx",
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/app/(routes)/category/[categoryId]/components/mobile-filters.tsx#": {
+      "id": "(app-client)/./app/(routes)/category/[categoryId]/components/mobile-filters.tsx",
       "name": "",
       "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
       ],
       "async": false
     },
-    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/components/ui/product-card.tsx#default": {
-      "id": "(app-client)/./components/ui/product-card.tsx",
+    "/Users/ajayprakash/Documents/GitHub/Ecommerce-Store/app/(routes)/category/[categoryId]/components/mobile-filters.tsx#default": {
+      "id": "(app-client)/./app/(routes)/category/[categoryId]/components/mobile-filters.tsx",
       "name": "default",
       "chunks": [
-        "app/(routes)/page:static/chunks/app/(routes)/page.js"
+        "app/(routes)/category/[categoryId]/page:static/chunks/app/(routes)/category/[categoryId]/page.js"
       ],
       "async": false
     }
